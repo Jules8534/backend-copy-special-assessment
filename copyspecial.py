@@ -89,7 +89,6 @@ def main():
     # with any required args, the general rule is to print a
     # usage message and exit(1).
 
-    # +++your code here+++
     # Call your functions
 
     if args.todir:
